@@ -10,7 +10,7 @@
 
 # \### Lenguajes usados
 
-# \- Python
+# \- CSS/HTML
 
 # \- Java
 
@@ -18,7 +18,4 @@
 
 # 
 
-# \### Enlaces
-
-# Visita mi repositorio en https://github.com/GabrielM7766/portafolio-aprendiz
 
